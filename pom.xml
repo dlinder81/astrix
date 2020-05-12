@@ -34,6 +34,7 @@
 		<module>astrix-netty-remoting</module>
 		<module>astrix-test-support</module>
 		<module>hystrix-multiconfig</module>
+		<module>astrix-bom</module>
 	</modules>
 	<licenses>
 		<license>
